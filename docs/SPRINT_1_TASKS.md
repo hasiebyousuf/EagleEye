@@ -48,7 +48,7 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 4 | Scaffold FastAPI backend | pending |
+| 4 | Scaffold FastAPI backend | completed |
 | 8 | Implement workspace FastAPI routes | pending |
 | 9 | Build Google Trends API service | pending |
 | 10 | Build SerpAPI service | pending |
