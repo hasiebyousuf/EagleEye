@@ -38,7 +38,7 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 | # | Task | Status |
 |---|---|---|
 | 1 | Set up monorepo structure | completed |
-| 2 | Configure Docker Compose | pending |
+| 2 | Configure Docker Compose | completed |
 | 3 | Set up Supabase project and run schema migrations | pending |
 | 17 | Deploy to VPS with Docker Compose | pending |
 
