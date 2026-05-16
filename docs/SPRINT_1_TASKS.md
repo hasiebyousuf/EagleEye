@@ -37,9 +37,9 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 1 | Set up monorepo structure | pending |
-| 2 | Configure Docker Compose | pending |
-| 3 | Set up Supabase project and run schema migrations | pending |
+| 1 | Set up monorepo structure | completed |
+| 2 | Configure Docker Compose | completed |
+| 3 | Set up Supabase project and run schema migrations | completed |
 | 17 | Deploy to VPS with Docker Compose | pending |
 
 ---
@@ -48,7 +48,7 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 4 | Scaffold FastAPI backend | pending |
+| 4 | Scaffold FastAPI backend | completed |
 | 8 | Implement workspace FastAPI routes | pending |
 | 9 | Build Google Trends API service | pending |
 | 10 | Build SerpAPI service | pending |
@@ -62,7 +62,7 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 5 | Scaffold Next.js frontend | pending |
+| 5 | Scaffold Next.js frontend | completed |
 | 14 | Build IdeaEngine wizard UI | pending |
 | 15 | Build report dashboard page | pending |
 | 16 | Build main dashboard (past reports listing) | pending |
@@ -73,8 +73,8 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 6 | Build auth flow (signup, login, session) | pending |
-| 7 | Build onboarding flow (workspace + budget setup) | pending |
+| 6 | Build auth flow (signup, login, session) | completed |
+| 7 | Build onboarding flow (workspace + budget setup) | completed |
 
 ---
 
