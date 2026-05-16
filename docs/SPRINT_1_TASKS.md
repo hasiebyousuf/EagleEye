@@ -62,7 +62,7 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 5 | Scaffold Next.js frontend | pending |
+| 5 | Scaffold Next.js frontend | completed |
 | 14 | Build IdeaEngine wizard UI | pending |
 | 15 | Build report dashboard page | pending |
 | 16 | Build main dashboard (past reports listing) | pending |
@@ -73,8 +73,8 @@ Reference spec: `docs/specs/2026-05-16-sprint1-design.md`
 
 | # | Task | Status |
 |---|---|---|
-| 6 | Build auth flow (signup, login, session) | pending |
-| 7 | Build onboarding flow (workspace + budget setup) | pending |
+| 6 | Build auth flow (signup, login, session) | completed |
+| 7 | Build onboarding flow (workspace + budget setup) | completed |
 
 ---
 
